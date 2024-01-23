@@ -7,6 +7,23 @@
     background-color: white;
 }
 
+.resume-webpage-container{
+    background-color: white;
+    color: #4980e6;
+    transition:  all .5s ease;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: 100;
+    letter-spacing: .1em;
+    text-align: center;
+    padding: 20px;
+}
+
+.resume-webpage-container:hover{
+    transform: scale(.8)
+}
+
 .line-break{
     grid-area: 3 / 2 / 4 / 5;
     border-top: 1px solid black;
