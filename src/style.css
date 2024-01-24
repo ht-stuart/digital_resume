@@ -1,6 +1,6 @@
 #resume-full-page{
     display: grid;
-    grid-template-columns: repeat(5, minmax(200px, 1fr));
+    grid-template-columns: repeat(5, minmax(150px, 1fr));
     grid-template-rows: repeat(auto, 1fr);
     font-family: "Roboto", sans-serif;
     gap: 2em;
