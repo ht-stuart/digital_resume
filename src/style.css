@@ -1,9 +1,12 @@
 #resume-full-page{
     display: grid;
-    grid-template-columns: repeat(5, minmax(200px, 1fr));
+    grid-template-columns: repeat(5, minmax(150px, 1fr));
     grid-template-rows: repeat(auto, 1fr);
     font-family: "Roboto", sans-serif;
     gap: 2em;
+    background-color: white;
+}
+.header-class {
     background-color: white;
 }
 
@@ -21,7 +24,7 @@
 }
 
 .resume-webpage-container:hover{
-    transform: scale(.8)
+    transform: scale(1.1)
 }
 
 .line-break{
