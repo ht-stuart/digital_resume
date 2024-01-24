@@ -6,6 +6,9 @@
     gap: 2em;
     background-color: white;
 }
+.header-class {
+    background-color: white;
+}
 
 .resume-webpage-container{
     background-color: white;
@@ -21,7 +24,7 @@
 }
 
 .resume-webpage-container:hover{
-    transform: scale(.8)
+    transform: scale(1.1)
 }
 
 .line-break{
