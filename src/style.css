@@ -6,16 +6,12 @@
     gap: 2em;
     background-color: white;
 }
-.header-class {
-    background-color: white;
-}
 
 .resume-webpage-container {
-    background-color: white;
+    background-color: white
 }
 
 .resume-webpage-container h2{
-    background-color: white;
     color: #4980e6;
     transition:  all .5s ease;
     font-family: "Roboto", sans-serif;
@@ -24,6 +20,8 @@
     font-weight: 100;
     letter-spacing: .1em;
     text-align: center;
+    padding: 20px;
+    margin: 0;
 }
 
 .resume-webpage-container h2:hover{
